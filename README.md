@@ -3,3 +3,4 @@ Dzień dobry
 jestem Daniel 
 Do widzenia
 hej
+hej
